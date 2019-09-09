@@ -23,7 +23,7 @@ var TestComponent = function (_Component) {
             return React.createElement(
                 "div",
                 null,
-                "test component"
+                "My APP name"
             );
         }
     }]);
