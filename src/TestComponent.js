@@ -8,9 +8,7 @@ class TestComponent extends Component {
         super(props)
     }
     render() {
-        return (<div>test component</div>
-
-    )
+        return (<div>{"My APP name"}</div>)
 
 
     }
