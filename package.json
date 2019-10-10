@@ -1,7 +1,7 @@
 {
   "name": "react-rdconnect-lib",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/testcomponent/index.js",
   "repository": "https://github.com/bag-cnag/react-rdconnect-lib.git",
   "author": "alberto1189 <alberto.corvo89@gmail.com>",
   "license": "MIT",

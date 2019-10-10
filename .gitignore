@@ -1,7 +1,5 @@
 
 
-.babelrc
-/src
 
 /build
 *.log
