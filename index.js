@@ -7,3 +7,4 @@
 
 
 export { default as TodaysDate } from './src/TodayDate';
+export { default as TestComponent } from './src/TestComponent';
