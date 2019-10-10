@@ -1,21 +1,31 @@
 {
   "name": "react-rdconnect-lib",
-  "version": "1.0.0",
-  "main": "src/testcomponent/index.js",
+  "version": "0.1.0",
+  "main": "build/testcomponent/index.js",
   "repository": "https://github.com/bag-cnag/react-rdconnect-lib.git",
   "author": "alberto1189 <alberto.corvo89@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.9.0"
+    "react": "^16.10.2"
   },
   "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/plugin-transform-async-to-generator": "^7.5.0",
+    "@babel/plugin-transform-regenerator": "^7.4.5",
+    "@babel/plugin-transform-runtime": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "@fortawesome/fontawesome-free": "^5.10.2",
     "babel-cli": "^6.26.0",
+    "babel-loader": "^8.0.6",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1"
   },
   "scripts": {
-    "build": "babel src -d build --copy-files",
+    "build": "babel src -d build",
     "prepare": "yarn run build"
-  }
+  },
+  "description": "shared rdconnect library for react"
 }
