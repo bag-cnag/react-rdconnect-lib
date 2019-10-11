@@ -2,8 +2,7 @@
 
 
 
-import {TodayComponent} from "./src/todaydate/TodayDate";
-import {TestComponent} from "./src/testcomponent/TestComponent";
 
 
-export {TodayComponent,TestComponent}
+export * from "./src/todaydate/TodayDate";
+export * from "./src/testcomponent/TestComponent";
