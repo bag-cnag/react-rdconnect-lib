@@ -4,5 +4,5 @@
 
 
 
-export * from "./src/todaydate/TodayDate";
-export * from "./src/testcomponent/TestComponent";
+export * from "./lib/todaydate/TodayDate";
+export * from "./lib/testcomponent/TestComponent";
