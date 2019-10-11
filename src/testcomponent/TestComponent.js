@@ -1,7 +1,7 @@
 
 import React, {Component} from "react";
 
-class TestComponent extends Component {
+export class TestComponent extends Component {
 
     constructor(props)
     {
@@ -15,6 +15,6 @@ class TestComponent extends Component {
 }
 
 
-export {TestComponent};
+
 
 
