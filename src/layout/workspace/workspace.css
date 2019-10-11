@@ -1,0 +1,11 @@
+
+
+/*CSS workspace container*/
+
+
+.workspace {
+    float: left;
+    width: 80%;
+    height: 100%;
+    background: white;
+}
