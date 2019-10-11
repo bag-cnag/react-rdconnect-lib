@@ -2,5 +2,5 @@
 
 
 
-export TodaysDate from "./src/todaydate";
-export TestComponent from "./src/testcomponent";
+export * from "./src/todaydate/TodayDate";
+export * from "./src/testcomponent/TestComponent";

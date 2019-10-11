@@ -15,6 +15,6 @@ class TestComponent extends Component {
 }
 
 
-export default TestComponent;
+export {TestComponent};
 
 
