@@ -7,7 +7,7 @@ import "../common.css";
 import "./top-bar.css";
 
 
-export default class TopBar extends Component {
+export class TopBar extends Component {
 
     constructor(props)
     {

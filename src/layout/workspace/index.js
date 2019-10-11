@@ -5,7 +5,7 @@ import React,{Component} from 'react';
 import "../common.css";
 import "./workspace.css"
 
-export default class WorkSpace extends Component {
+export class WorkSpace extends Component {
 
     constructor(props){
         super(props)

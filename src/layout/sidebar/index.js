@@ -7,7 +7,7 @@ import {faFilter} from "@fortawesome/free-solid-svg-icons";
 
 
 
-export default class SideBar extends Component {
+export class SideBar extends Component {
 
     constructor(props)
     {
