@@ -11,7 +11,7 @@ This repository is meant to share components across the different react-apps in 
 
 import {Component} from "react-rdconnect-lib";
 
-### how add a component
+### how to add a component
 
 - add the component folder to the src folder;
 - be sure to have all dependencies installed via npm
