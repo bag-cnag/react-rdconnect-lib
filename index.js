@@ -1,7 +1,7 @@
 
-import TodaysDate from "./src/todaydate";
-import TestComponent from "./src/testcomponent";
+import todaysdate from "./src/todaydate";
+import testcomponent from "./src/testcomponent";
 
 
-export const TodaysDate = TodaysDate;
-export const TestComponent = TestComponent;
+export const TodaysDate = todaysdate;
+export const TestComponent = testcomponent;
