@@ -3,9 +3,9 @@
 
 //src/TodaysDate.js
 import React from "react";
-const TodaysDate = () =>
+const TodayDate = () =>
     <div>{`Today's date is ${Date()}`}</div>;
 
 
-export {TodaysDate};
+export {TodayDate};
 
