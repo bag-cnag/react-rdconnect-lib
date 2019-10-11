@@ -1,6 +1,7 @@
 
+import TodaysDate from "./src/todaydate";
+import TestComponent from "./src/testcomponent";
 
 
-
-export { default as TodaysDate} from './src/todaydate/TodayDate';
-export { TestComponent } from './src/testcomponent/TestComponent';
+export const TodaysDate = TodaysDate;
+export const TestComponent = TestComponent;
